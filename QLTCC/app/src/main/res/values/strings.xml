@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QLTC</string>
+    <string name="title_tai_chinh">TÀI CHÍNH HIỆN TẠI</string>
+    <string name="xem_them">Xem thêm</string>
+    <string-array name="list">
+        <item>Thu tiền</item>
+        <item>Chi tiền</item>
+    </string-array>
+
+    <!--<string name="facebook_app_id">Facebook App ID</string>-->
+    <string name="facebook_app_id">2340458636183814</string>
+    <string name="fb_login_protocol_scheme">fb2340458636183814</string>
+
+
+</resources>
